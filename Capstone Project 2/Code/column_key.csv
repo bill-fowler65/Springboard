@@ -1,13 +1,13 @@
 Variable,Ratio
-X1,net profit / total assets
-X2,total liabilities / total assets
-X3,working capital / total assets
-X4,current assets / short-term liabilities
-X5,[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
-X6,retained earnings / total assets
-X7,EBIT / total assets
-X8,book value of equity / total liabilities
-X9,sales / total assets
+X01,net profit / total assets
+X02,total liabilities / total assets
+X03,working capital / total assets
+X04,current assets / short-term liabilities
+X05,[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
+X06,retained earnings / total assets
+X07,EBIT / total assets
+X08,book value of equity / total liabilities
+X09,sales / total assets
 X10,equity / total assets
 X11,(gross profit + extraordinary items + financial expenses) / total assets
 X12,gross profit / short-term liabilities
